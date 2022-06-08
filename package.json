@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "name": "webpack-import-meta-context-issue",
   "dependencies": {
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.73.0"
